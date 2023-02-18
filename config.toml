@@ -13,7 +13,7 @@ DefaultContentLanguageInSubdir = true
     [languages.en.params]
       introTitle = "Hey! I'm Zainab Lateef"
       introSubtitle = "11 y/o Primary School student (Prestonfield Primary) who enjoys playing Minecraft, blogging and painting"
-      introPhoto = "/zl.jpg"
+      introPhoto = "/zl.JPG"
     [[languages.en.menu.main]]
         name = "Blog"
         url = "blog"
